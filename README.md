@@ -1,5 +1,5 @@
 ## React Native Send SMS Module
-This module sends SMS to your react-native project. (Only android)
+This module sends SMS to your react-native project. (Only android)\n
 It sends sms to the background of the application, instead of popping the sms application up.
 
 이 프로젝트는 리엑트네이티브를 통하여 sms를 전송할 수 있게 해준다. (only android)
