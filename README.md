@@ -4,6 +4,7 @@ This module sends SMS to your react-native project. (Only android)
 It sends sms to the background of the application, instead of popping the sms application up.
 
 이 프로젝트는 리엑트네이티브를 통하여 sms를 전송할 수 있게 해준다. (only android)
+
 sms를 보낼 때 새로운 창이 popup되는 형식이 아닌 뒷 단에서 보낼 수 있게 해준다.
 
 ## Getting started
