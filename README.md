@@ -11,11 +11,10 @@ sms를 보낼 때 새로운 창이 popup되는 형식이 아닌 뒷 단에서 �
 3. PROFIT!!!
 
 ## How To Use
-\'
-import SendAndroidSMS from 'send-android-sms';
 
-SendAndroidSMS.sendMessage("Message", "PhoneNumber", () => { console.log("it's work! :)"); }, (error) => { console.log("occured error... :(")} );
-'\
+    import SendAndroidSMS from 'send-android-sms';
+
+    SendAndroidSMS.sendMessage("Message", "PhoneNumber", () => { console.log("it's work! :)"); }, (error) => {console.log("occured error... :(")} );
 
 ## Caution
 
